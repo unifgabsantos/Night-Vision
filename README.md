@@ -14,6 +14,11 @@ Projeto completo que demonstra como criar um sistema de visão noturna usando um
 - Python (Flask, OpenCV, Picamera2)
 - Plataforma Mendix
 
+## Arquitetura
+
+(https://raw.githubusercontent.com/unifgabsantos/Night-Vision/refs/heads/main/Arquitetura.jpg)
+
+
 ## Pré-requisitos
 - Raspberry Pi configurado com Raspberry Pi OS.
 - Câmera compatível com Raspberry Pi (preferencialmente com capacidade infravermelha).
