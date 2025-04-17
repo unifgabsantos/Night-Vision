@@ -29,7 +29,7 @@ pip install flask opencv-python numpy picamera2 requests
 1. Clone este repositório:
 
 ```bash
-git clone [<URL do repositório>](https://github.com/unifgabsantos/Night-Vision)
+git clone https://github.com/unifgabsantos/Night-Vision
 cd Night-Vision
 ```
 
