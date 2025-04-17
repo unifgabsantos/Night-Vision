@@ -16,7 +16,8 @@ Projeto completo que demonstra como criar um sistema de visão noturna usando um
 
 ## Arquitetura
 
-!(https://raw.githubusercontent.com/unifgabsantos/Night-Vision/refs/heads/main/Arquitetura.jpg)
+![Arquitetura do Projeto](https://raw.githubusercontent.com/unifgabsantos/Night-Vision/refs/heads/main/Arquitetura.jpg)
+
 
 
 ## Pré-requisitos
