@@ -53,7 +53,7 @@ http://<IP_DO_RASPBERRY_PI>/
 
 ```
 .
-├── nome_do_arquivo.py (script Python principal)
+├── main.py (script Python principal)
 ├── README.md (este arquivo)
 └── MPK (Projeto Mendix)
 ```
