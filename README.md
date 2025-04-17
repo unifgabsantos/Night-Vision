@@ -65,4 +65,4 @@ http://<IP_DO_RASPBERRY_PI>/
 ```
 
 ## Autor
-- **Gabriel Lopes Parreira dos Santis** - [GitHub](https://github.com/unifgabsantos/)
+- **Gabriel Lopes Parreira dos Santos** - [GitHub](https://github.com/unifgabsantos/)
